@@ -2,6 +2,7 @@ const books = [
   {
     id: '1',
     title: 'The Hobbit',
+    imageURL:'https://m.media-amazon.com/images/I/71jD4jMityL._AC_UF1000,1000_QL80_.jpg',
     author: 'J.R.R. Tolkien',
     category: 'Fiction',
     description: 'A fantasy novel about the quest of home-loving hobbit Bilbo Baggins.',
